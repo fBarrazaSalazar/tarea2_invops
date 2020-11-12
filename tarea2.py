@@ -1,4 +1,6 @@
 import numpy as np
+import os.path
+from os import path
 
 
 """
@@ -40,15 +42,49 @@ def calcular_distancia(pos_a, pos_b, lens):
 
     return total
 
+
+"""
+    Lee el archivo y retorna 1 array y 1 matriz , el array contiene el largo de cada puesto, y la matriz contiene cuantas personas pasaron entre 
+    puestos
+    @param nombre : nombre del archivo que con tiene los datos a parsear 
+    @return :  [array],[matrix] suma de la distancia entre origen y destino
+"""
+
+
+
+def leer_archivo(nombre):
+    i=0
+
+    if not path.isfile(nombre):
+        return "error"
+    f= open(nombre,'r')
+    while (True):
+        linea=f.readline()
+        if not linea:
+            break
+        elif i==1:
+            line = [int(x.strip()) for x in linea.split(',')]
+            f_size=np.array(line)
+        else:
+            if i==2:
+                line = [int(x.strip()) for x in linea.split(',')]
+                f_weight=np.array(line)
+            else:
+                line = [int(x.strip()) for x in linea.split(',')]
+                f_weight=np.append(f_weight,[line],axis=0)
+        i=i+1     
+    return f_size,f_weight
+
+
 """
     Funcion main
 """
+
 if __name__ == '__main__':
     n = 5
     l = [4,5,2,3,6]
     # pos_a = 2
     # pos_b = 5
-
     total = calcular_distancia(2,5,l)
 
     print(total)
