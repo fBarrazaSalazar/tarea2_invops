@@ -1,6 +1,5 @@
 import numpy as np
 
-
 """
     Calcula la suma de los puestos que se encuentran 
     entre los puestos de origen y destino
