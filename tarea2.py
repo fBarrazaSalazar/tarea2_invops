@@ -1,4 +1,5 @@
 import numpy as np
+import random as rd
 import os.path
 from os import path
 
@@ -70,6 +71,75 @@ def leer_archivo(nombre):
         i=i+1     
     return f_size,f_weight
 """
+    Hace la sumatoria donde se saca el valor de la solucion  
+    puestos
+    @param [n] tamaño del array, [vsee] valor del seed dependiendo del l, [f_weight] matriz de pesos, [seed] index que representa donde estan posicionados los lugares
+    @return :  una funcion que retorna un valor solucion.
+"""
+def funcion_objetivo(n,vsee,f_weight,seed):
+    """sol=0
+    for x in range(len(l)):
+        for y in range(x+1,len(l)):
+            sol=sol+calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]]
+            print(sol)
+            print(x,y)   
+            print(f_weight[seed[x]][seed[y]])
+            print("------------") 
+    print([x+y for x in range(len(l)) for y in range(x+1,len(l))])
+    print(np.sum([calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]] for x in range(len(l)) for y in range(x+1,len(l))]))
+    """
+    return np.sum([calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]] for x in range(len(l)) for y in range(x+1,len(l))])
+
+"""
+    Esta funcion encuentra la solucion minima dentro de k neighbors, los cuales son inicializados por un seed random 
+    puestos
+    @param [n] tamaño del array, [l] array inicial, [f_weight] matriz de pesos, [it] cantidad de iteraciones, [k] cantidad de neighbors
+    @return :  [seed_sol],[best_sol] seed_sol es el index de la mejor solucion encontrada, best_sol es la mejor solucion.
+"""
+
+def neighborhood(n,f_weight,l,it,k):
+    best_sol=1000000
+    seed_sol= np.ones(n)
+    for x in range(k):
+        seed=encontrar_seed(n)
+        [seed_local,best_sol_local]=local_search(seed,it,n,l,f_weight)
+        if best_sol > best_sol_local:
+            best_sol = best_sol_local
+            seed_sol=seed_local
+    return seed_sol,best_sol
+
+"""
+    Hace un swap de dos items del array
+    @param [n] tamaño del array, [seed] index de la solucion
+    @return :  [seed] index modificado
+"""
+
+def stochastic_iteration(n,seed):
+    x=rd.randint(0,n-1)
+    y=rd.randint(0,n-1)
+    while y == x:
+        y=rd.randint(0,n-1)
+    seed[x],seed[y]=seed[y],seed[x]
+    return seed
+
+"""
+    Hace un search iterativo random dentro del espacio de busqueda, los movimientos son swap de items dentro del array
+    y se encarga de encontrar la solucion minima local.
+    @param [n] tamaño del array, [l] array inicial, [f_weight] matriz de pesos, [it] cantidad de iteraciones, [seed] index de la solucion
+    @return :  [seed_sol],[sol_local] seed_sol es el index de la mejor solucion encontrada, sol_local es la mejor solucion local.
+"""
+
+def local_search(seed,it,n,l,f_weight):
+    sol_local=1000000 
+    seed_sol=seed
+    for x in range(it):
+        sol=funcion_objetivo(n,valor_seed(seed,l),f_weight,seed)  
+        if sol_local > sol:
+            sol_local=sol
+            seed_sol=seed
+        seed=stochastic_iteration(n,seed)
+    return seed_sol,sol_local  
+"""
     re-ordena de forma random la posicion del array inicial, para sacar la primera solucion
     @param arg :  [n] tamaño del array
     @return :  [seed] index representativo de la posicion de los items en el array
@@ -83,7 +153,7 @@ def encontrar_seed(n):
     @param arg :  [seed] array con los index de posicion,[l] array inicial
     @return :  [[l[x] for x in seed]] funcion que crea un array insertando los valores correspondientes de l usando las posiciones de seed
 """    
-def valor_solucion(seed,l):
+def valor_seed(seed,l):
     return [l[x] for x in seed]
 
 """
