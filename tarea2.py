@@ -1,15 +1,17 @@
 import numpy as np
 import random as rd
+import pandas as pd
 import os.path
 from os import path
 
-"""
+
+def sumatoria(lens):
+    """
     Calcula la suma de los puestos que se encuentran 
     entre los puestos de origen y destino
     @param arg :  [lens] largos de cada puesto entre origen y destino
     @return :  [number] suma de los largos de cada puesto entre origen y destino
-"""
-def sumatoria(lens):
+    """
     total = 0
 
     #print("a sumar (len):",lens)
@@ -19,12 +21,13 @@ def sumatoria(lens):
 
     #print("sumat:",total)
     return total
-"""
+
+def calcular_distancia(pos_a, pos_b, lens):
+    """
     Calcula la distancia entre el puesto de origen y destino
     @param arg :  [pos_a] posicion de origen; [pos_b] posicion de destino; [lens] largos de cada puesto entre origen y destino
     @return :  [number] suma de la distancia entre origen y destino
-"""
-def calcular_distancia(pos_a, pos_b, lens):
+    """
     start = pos_a
     end = pos_b-1
 
@@ -41,15 +44,15 @@ def calcular_distancia(pos_a, pos_b, lens):
 
     return total
 
-"""
+
+
+def leer_archivo(nombre):
+    """
     Lee el archivo y retorna 1 array y 1 matriz , el array contiene el largo de cada puesto, y la matriz contiene cuantas personas pasaron entre 
     puestos
     @param nombre : nombre del archivo que con tiene los datos a parsear 
     @return :  [array],[matrix] suma de la distancia entre origen y destino
-"""
-
-
-def leer_archivo(nombre):
+    """
     i=0
     if not path.isfile(nombre):
         return "error"
@@ -70,34 +73,39 @@ def leer_archivo(nombre):
                 f_weight=np.append(f_weight,[line],axis=0)
         i=i+1     
     return f_size,f_weight
-"""
+
+def adquirir_datos(nombre):
+    """
+    Es una mosntruosidad pero no sabia como cambiar el otro leer, asi que es asi como funciona ahora
+    uso csv y os para sacar los datos y transformarlos.
+    """
+    f=open(nombre,'r')
+    n=int(f.readline(1))
+    #n=pd.read_csv(nombre,header=None,nrows=1,engine='python')
+    l=pd.read_csv(nombre,header=None,skiprows=1,nrows=1,engine='python')
+    l=pd.DataFrame.to_numpy(l)
+    l=l[0]
+    f_weight=pd.read_csv(nombre,header=None,skiprows=2,engine='python')
+    f_weight=pd.DataFrame.to_numpy(f_weight)
+    return n,l,f_weight
+
+def funcion_objetivo(n,vsee,f_weight,seed):
+    """
     Hace la sumatoria donde se saca el valor de la solucion  
     puestos
     @param [n] tamaño del array, [vsee] valor del seed dependiendo del l, [f_weight] matriz de pesos, [seed] index que representa donde estan posicionados los lugares
     @return :  una funcion que retorna un valor solucion.
-"""
-def funcion_objetivo(n,vsee,f_weight,seed):
-    """sol=0
-    for x in range(len(l)):
-        for y in range(x+1,len(l)):
-            sol=sol+calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]]
-            print(sol)
-            print(x,y)   
-            print(f_weight[seed[x]][seed[y]])
-            print("------------") 
-    print([x+y for x in range(len(l)) for y in range(x+1,len(l))])
-    print(np.sum([calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]] for x in range(len(l)) for y in range(x+1,len(l))]))
     """
     return np.sum([calcular_distancia(x,y,vsee)*f_weight[seed[x]][seed[y]] for x in range(len(l)) for y in range(x+1,len(l))])
 
-"""
+
+def neighborhood(n,f_weight,l,it,k):
+    """
     Esta funcion encuentra la solucion minima dentro de k neighbors, los cuales son inicializados por un seed random 
     puestos
     @param [n] tamaño del array, [l] array inicial, [f_weight] matriz de pesos, [it] cantidad de iteraciones, [k] cantidad de neighbors
     @return :  [seed_sol],[best_sol] seed_sol es el index de la mejor solucion encontrada, best_sol es la mejor solucion.
-"""
-
-def neighborhood(n,f_weight,l,it,k):
+    """
     best_sol=1000000
     seed_sol= np.ones(n)
     for x in range(k):
@@ -108,13 +116,13 @@ def neighborhood(n,f_weight,l,it,k):
             seed_sol=seed_local
     return seed_sol,best_sol
 
-"""
+
+def stochastic_iteration(n,seed):
+    """
     Hace un swap de dos items del array
     @param [n] tamaño del array, [seed] index de la solucion
     @return :  [seed] index modificado
-"""
-
-def stochastic_iteration(n,seed):
+    """
     x=rd.randint(0,n-1)
     y=rd.randint(0,n-1)
     while y == x:
@@ -122,14 +130,13 @@ def stochastic_iteration(n,seed):
     seed[x],seed[y]=seed[y],seed[x]
     return seed
 
-"""
+def local_search(seed,it,n,l,f_weight):
+    """
     Hace un search iterativo random dentro del espacio de busqueda, los movimientos son swap de items dentro del array
     y se encarga de encontrar la solucion minima local.
     @param [n] tamaño del array, [l] array inicial, [f_weight] matriz de pesos, [it] cantidad de iteraciones, [seed] index de la solucion
     @return :  [seed_sol],[sol_local] seed_sol es el index de la mejor solucion encontrada, sol_local es la mejor solucion local.
-"""
-
-def local_search(seed,it,n,l,f_weight):
+    """
     sol_local=1000000 
     seed_sol=seed
     for x in range(it):
@@ -139,32 +146,40 @@ def local_search(seed,it,n,l,f_weight):
             seed_sol=seed
         seed=stochastic_iteration(n,seed)
     return seed_sol,sol_local  
-"""
+
+def encontrar_seed(n):
+    """
     re-ordena de forma random la posicion del array inicial, para sacar la primera solucion
     @param arg :  [n] tamaño del array
     @return :  [seed] index representativo de la posicion de los items en el array
-"""
-def encontrar_seed(n):
+    """
     seed=[x for x in range(n)] 
     np.random.shuffle(seed)
     return seed
-"""
+
+def valor_seed(seed,l):
+    """
     Asigna el valor pertinente a la posicion del seed
     @param arg :  [seed] array con los index de posicion,[l] array inicial
     @return :  [[l[x] for x in seed]] funcion que crea un array insertando los valores correspondientes de l usando las posiciones de seed
-"""    
-def valor_seed(seed,l):
+    """    
     return [l[x] for x in seed]
 
-"""
-    Funcion main
-"""
+
 
 if __name__ == '__main__':
-    n = 5
-    l = [4,5,2,3,6]
-    # pos_a = 2
-    # pos_b = 5
-    total = calcular_distancia(2,5,l)
+    """
+    Funcion main
+    """
 
-    print(total)
+    #config---------------------------------------------------------------------
+    it=10
+    k=5
+    nombre='S8.txt'
+    #----------------------------------------------------------------------------
+    [n,l,f_weight]=adquirir_datos(nombre)
+    [seed,vsol]=neighborhood(n,f_weight,l,it,k)
+    print("\nMejor resultado\n")
+    print("Index solución: ",seed)
+    print("Valor solución: ",vsol)
+
