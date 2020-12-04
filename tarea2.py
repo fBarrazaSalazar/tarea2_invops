@@ -176,6 +176,7 @@ if __name__ == '__main__':
     it=10
     k=5
     nombre='QAP_sko56_04_n'
+    #nombre='test123.txt'
     #----------------------------------------------------------------------------
     [n,l,f_weight]=adquirir_datos(nombre)
     [seed,vsol]=neighborhood(n,f_weight,l,it,k)
