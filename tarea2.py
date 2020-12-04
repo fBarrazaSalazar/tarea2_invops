@@ -80,7 +80,7 @@ def adquirir_datos(nombre):
     uso csv y os para sacar los datos y transformarlos.
     """
     f=open(nombre,'r')
-    n=int(f.readline(1))
+    n=int(f.readline())
     #n=pd.read_csv(nombre,header=None,nrows=1,engine='python')
     l=pd.read_csv(nombre,header=None,skiprows=1,nrows=1,engine='python')
     l=pd.DataFrame.to_numpy(l)
@@ -175,7 +175,7 @@ if __name__ == '__main__':
     #config---------------------------------------------------------------------
     it=10
     k=5
-    nombre='S8.txt'
+    nombre='QAP_sko56_04_n'
     #----------------------------------------------------------------------------
     [n,l,f_weight]=adquirir_datos(nombre)
     [seed,vsol]=neighborhood(n,f_weight,l,it,k)
