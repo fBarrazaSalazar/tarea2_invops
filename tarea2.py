@@ -44,40 +44,12 @@ def calcular_distancia(pos_a, pos_b, lens):
 
     return total
 
-
-
-def leer_archivo(nombre):
-    """
-    Lee el archivo y retorna 1 array y 1 matriz , el array contiene el largo de cada puesto, y la matriz contiene cuantas personas pasaron entre 
-    puestos
-    @param nombre : nombre del archivo que con tiene los datos a parsear 
-    @return :  [array],[matrix] suma de la distancia entre origen y destino
-    """
-    i=0
-    if not path.isfile(nombre):
-        return "error"
-    f= open(nombre,'r')
-    while (True):
-        linea=f.readline()
-        if not linea:
-            break
-        elif i==1:
-            line = [int(x.strip()) for x in linea.split(',')]
-            f_size=np.array(line)
-        else:
-            if i==2:
-                line = [int(x.strip()) for x in linea.split(',')]
-                f_weight=np.array(line)
-            else:
-                line = [int(x.strip()) for x in linea.split(',')]
-                f_weight=np.append(f_weight,[line],axis=0)
-        i=i+1     
-    return f_size,f_weight
-
 def adquirir_datos(nombre):
     """
-    Es una mosntruosidad pero no sabia como cambiar el otro leer, asi que es asi como funciona ahora
-    uso csv y os para sacar los datos y transformarlos.
+    Funcion de lectura, usa la funcion normal de open() y la libreria de pandas usando csv para sacar 
+    los vectores y matrices, los cuales los deja en el formato adecuado apra ser usados en el resto del algoritmo.
+    @param arg :  [nombre] nombre del archivo de entrada
+    @return :  [n] cantidad de tiendas, [l] array que contiene cuanto mide cada tienda, [f_weight] matriz de pesos que representa cuantas personas pasan de la tienda x a la y
     """
     f=open(nombre,'r')
     n=int(f.readline())
@@ -87,6 +59,7 @@ def adquirir_datos(nombre):
     l=l[0]
     f_weight=pd.read_csv(nombre,header=None,skiprows=2,engine='python')
     f_weight=pd.DataFrame.to_numpy(f_weight)
+    f.close()
     return n,l,f_weight
 
 def funcion_objetivo(n,vsee,f_weight,seed):
