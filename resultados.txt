@@ -1,0 +1,3128 @@
+Elementos: 56
+Vecindarios: 20
+Iteraciones: 50
+
+VECINDARIO 1
+Seed: [21, 14, 1, 9, 27, 40, 11, 17, 13, 19, 2, 28, 47, 44, 52, 34, 22, 53, 39, 15, 48, 18, 33, 4, 36, 30, 24, 55, 25, 51, 35, 0, 45, 3, 7, 10, 5, 32, 54, 23, 43, 16, 38, 41, 50, 49, 6, 26, 42, 29, 8, 46, 20, 12, 31, 37]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 438714.5
+Iteracion 2
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 441903.5
+Iteracion 3
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 447884.5
+Iteracion 4
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 440667.0
+Iteracion 5
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 440473.0
+Iteracion 6
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 439941.0
+Iteracion 7
+(Seed) solucion local: 438714.5
+(Seed) solucion encontrada: 438339.0
+Iteracion 8
+(Seed) solucion local: 438339.0
+(Seed) solucion encontrada: 438859.0
+Iteracion 9
+(Seed) solucion local: 438339.0
+(Seed) solucion encontrada: 435923.0
+Iteracion 10
+(Seed) solucion local: 435923.0
+(Seed) solucion encontrada: 423945.0
+Iteracion 11
+(Seed) solucion local: 423945.0
+(Seed) solucion encontrada: 423667.5
+Iteracion 12
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 430991.5
+Iteracion 13
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 429399.0
+Iteracion 14
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 431865.0
+Iteracion 15
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 434567.0
+Iteracion 16
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 433502.0
+Iteracion 17
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 434760.5
+Iteracion 18
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 445438.5
+Iteracion 19
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 441415.5
+Iteracion 20
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 441013.5
+Iteracion 21
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 440281.0
+Iteracion 22
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 441678.0
+Iteracion 23
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 442573.0
+Iteracion 24
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 445378.5
+Iteracion 25
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 444808.5
+Iteracion 26
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 445319.5
+Iteracion 27
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 453760.0
+Iteracion 28
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 448060.5
+Iteracion 29
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 448500.5
+Iteracion 30
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 445428.5
+Iteracion 31
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 443561.5
+Iteracion 32
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 442397.5
+Iteracion 33
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 437009.0
+Iteracion 34
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 438562.0
+Iteracion 35
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 438615.5
+Iteracion 36
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 453581.0
+Iteracion 37
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 457277.0
+Iteracion 38
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 457124.0
+Iteracion 39
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 457154.0
+Iteracion 40
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 453115.0
+Iteracion 41
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 455287.0
+Iteracion 42
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 445409.0
+Iteracion 43
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 448360.0
+Iteracion 44
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 446562.0
+Iteracion 45
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 444716.5
+Iteracion 46
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 455922.5
+Iteracion 47
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 457557.0
+Iteracion 48
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 450312.0
+Iteracion 49
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 449150.5
+Iteracion 50
+(Seed) solucion local: 423667.5
+(Seed) solucion encontrada: 450873.5
+Seed local: [43, 6, 30, 9, 23, 46, 40, 14, 8, 24, 2, 26, 47, 44, 52, 37, 22, 4, 12, 29, 41, 13, 33, 39, 36, 10, 32, 11, 19, 55, 16, 18, 5, 3, 50, 0, 51, 7, 54, 27, 45, 1, 48, 34, 28, 49, 21, 35, 42, 25, 31, 38, 53, 20, 15, 17]
+Solucion local: 423667.5
+
+VECINDARIO 2
+Seed: [8, 28, 25, 52, 17, 21, 2, 13, 48, 6, 33, 29, 51, 0, 39, 45, 35, 16, 1, 47, 10, 42, 20, 27, 37, 31, 15, 54, 9, 19, 38, 50, 44, 46, 41, 22, 26, 34, 40, 30, 5, 4, 43, 7, 14, 24, 55, 11, 12, 53, 23, 32, 49, 18, 36, 3]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 442448.5
+Iteracion 2
+(Seed) solucion local: 442448.5
+(Seed) solucion encontrada: 439713.5
+Iteracion 3
+(Seed) solucion local: 439713.5
+(Seed) solucion encontrada: 440599.5
+Iteracion 4
+(Seed) solucion local: 439713.5
+(Seed) solucion encontrada: 436745.5
+Iteracion 5
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 447932.5
+Iteracion 6
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 447308.0
+Iteracion 7
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 447183.0
+Iteracion 8
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 446298.0
+Iteracion 9
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 445592.5
+Iteracion 10
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 457203.0
+Iteracion 11
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 457307.0
+Iteracion 12
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 448543.0
+Iteracion 13
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 448158.5
+Iteracion 14
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 446607.0
+Iteracion 15
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 445794.0
+Iteracion 16
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 444087.5
+Iteracion 17
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 444237.5
+Iteracion 18
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 443914.0
+Iteracion 19
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 443423.5
+Iteracion 20
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 445416.0
+Iteracion 21
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 446032.5
+Iteracion 22
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 453772.0
+Iteracion 23
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 458575.5
+Iteracion 24
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 453956.5
+Iteracion 25
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 458251.0
+Iteracion 26
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 459138.0
+Iteracion 27
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 450362.0
+Iteracion 28
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 444749.0
+Iteracion 29
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 445477.0
+Iteracion 30
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 447201.5
+Iteracion 31
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 453768.5
+Iteracion 32
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 453681.5
+Iteracion 33
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 455106.0
+Iteracion 34
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 455040.5
+Iteracion 35
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 462876.0
+Iteracion 36
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 466272.0
+Iteracion 37
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 469858.0
+Iteracion 38
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 470117.5
+Iteracion 39
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 465955.0
+Iteracion 40
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 456014.0
+Iteracion 41
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 455073.0
+Iteracion 42
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 454048.5
+Iteracion 43
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 455421.5
+Iteracion 44
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 449619.5
+Iteracion 45
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 454584.5
+Iteracion 46
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 459717.0
+Iteracion 47
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 457591.0
+Iteracion 48
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 453194.5
+Iteracion 49
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 451871.5
+Iteracion 50
+(Seed) solucion local: 436745.5
+(Seed) solucion encontrada: 451242.5
+Seed local: [47, 36, 11, 27, 17, 41, 34, 10, 42, 18, 26, 15, 53, 8, 31, 29, 35, 38, 1, 9, 13, 48, 40, 46, 37, 20, 7, 52, 44, 55, 12, 49, 45, 16, 5, 21, 33, 39, 4, 30, 50, 25, 43, 32, 14, 24, 2, 54, 22, 0, 23, 3, 51, 19, 28, 6]
+Solucion local: 436745.5
+
+VECINDARIO 3
+Seed: [29, 39, 26, 7, 52, 11, 32, 42, 33, 54, 48, 21, 49, 12, 3, 44, 16, 19, 47, 14, 50, 35, 1, 0, 5, 45, 9, 23, 41, 36, 31, 34, 28, 20, 10, 2, 6, 8, 15, 46, 27, 37, 30, 38, 25, 53, 17, 40, 4, 43, 24, 13, 51, 22, 55, 18]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 430883.0
+Iteracion 2
+(Seed) solucion local: 430883.0
+(Seed) solucion encontrada: 430958.0
+Iteracion 3
+(Seed) solucion local: 430883.0
+(Seed) solucion encontrada: 430525.0
+Iteracion 4
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 431165.5
+Iteracion 5
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 439214.5
+Iteracion 6
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 437616.5
+Iteracion 7
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 433171.5
+Iteracion 8
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 436718.0
+Iteracion 9
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 440110.0
+Iteracion 10
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 441983.0
+Iteracion 11
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 441938.5
+Iteracion 12
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 444195.5
+Iteracion 13
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 444437.0
+Iteracion 14
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 441410.0
+Iteracion 15
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 437074.0
+Iteracion 16
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 438544.5
+Iteracion 17
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 438456.0
+Iteracion 18
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 439663.5
+Iteracion 19
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 438625.0
+Iteracion 20
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 439175.0
+Iteracion 21
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 439281.5
+Iteracion 22
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 436707.5
+Iteracion 23
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 436692.5
+Iteracion 24
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 437425.5
+Iteracion 25
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 436683.0
+Iteracion 26
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 435740.0
+Iteracion 27
+(Seed) solucion local: 430525.0
+(Seed) solucion encontrada: 429728.0
+Iteracion 28
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 430439.0
+Iteracion 29
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 431687.0
+Iteracion 30
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 433570.0
+Iteracion 31
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 432107.5
+Iteracion 32
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 434449.0
+Iteracion 33
+(Seed) solucion local: 429728.0
+(Seed) solucion encontrada: 426581.0
+Iteracion 34
+(Seed) solucion local: 426581.0
+(Seed) solucion encontrada: 425747.0
+Iteracion 35
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 428129.0
+Iteracion 36
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 432342.5
+Iteracion 37
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 433731.5
+Iteracion 38
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 431057.5
+Iteracion 39
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 434970.5
+Iteracion 40
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 431057.5
+Iteracion 41
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 432293.0
+Iteracion 42
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 438172.0
+Iteracion 43
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 438516.0
+Iteracion 44
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 436562.0
+Iteracion 45
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 434218.5
+Iteracion 46
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 440390.5
+Iteracion 47
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 441078.5
+Iteracion 48
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 441347.5
+Iteracion 49
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 441172.5
+Iteracion 50
+(Seed) solucion local: 425747.0
+(Seed) solucion encontrada: 444002.5
+Seed local: [40, 21, 33, 7, 44, 25, 23, 47, 11, 30, 22, 24, 16, 54, 32, 36, 43, 19, 42, 14, 2, 27, 31, 17, 5, 45, 9, 37, 12, 35, 3, 46, 8, 39, 34, 38, 53, 10, 48, 52, 15, 50, 51, 20, 1, 41, 0, 29, 4, 26, 13, 49, 18, 28, 55, 6]
+Solucion local: 425747.0
+
+VECINDARIO 4
+Seed: [37, 21, 38, 44, 45, 51, 16, 42, 13, 18, 26, 41, 54, 1, 17, 5, 7, 29, 46, 20, 4, 12, 23, 0, 19, 55, 32, 6, 24, 50, 40, 3, 22, 48, 28, 25, 34, 43, 39, 53, 27, 30, 35, 47, 31, 2, 14, 8, 9, 33, 11, 52, 49, 10, 36, 15]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 455946.0
+Iteracion 2
+(Seed) solucion local: 455946.0
+(Seed) solucion encontrada: 456575.0
+Iteracion 3
+(Seed) solucion local: 455946.0
+(Seed) solucion encontrada: 443823.0
+Iteracion 4
+(Seed) solucion local: 443823.0
+(Seed) solucion encontrada: 444095.0
+Iteracion 5
+(Seed) solucion local: 443823.0
+(Seed) solucion encontrada: 443718.0
+Iteracion 6
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 444040.0
+Iteracion 7
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 446046.5
+Iteracion 8
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 449627.5
+Iteracion 9
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 447026.0
+Iteracion 10
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 449708.0
+Iteracion 11
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 451377.0
+Iteracion 12
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 450222.0
+Iteracion 13
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 449117.0
+Iteracion 14
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 445037.5
+Iteracion 15
+(Seed) solucion local: 443718.0
+(Seed) solucion encontrada: 443425.5
+Iteracion 16
+(Seed) solucion local: 443425.5
+(Seed) solucion encontrada: 441898.0
+Iteracion 17
+(Seed) solucion local: 441898.0
+(Seed) solucion encontrada: 448805.0
+Iteracion 18
+(Seed) solucion local: 441898.0
+(Seed) solucion encontrada: 441303.0
+Iteracion 19
+(Seed) solucion local: 441303.0
+(Seed) solucion encontrada: 438900.0
+Iteracion 20
+(Seed) solucion local: 438900.0
+(Seed) solucion encontrada: 434094.5
+Iteracion 21
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 436707.5
+Iteracion 22
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 435366.0
+Iteracion 23
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 437256.0
+Iteracion 24
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 439057.5
+Iteracion 25
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 436787.0
+Iteracion 26
+(Seed) solucion local: 434094.5
+(Seed) solucion encontrada: 433885.5
+Iteracion 27
+(Seed) solucion local: 433885.5
+(Seed) solucion encontrada: 429158.0
+Iteracion 28
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 430984.5
+Iteracion 29
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 431103.5
+Iteracion 30
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 430457.5
+Iteracion 31
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 430960.5
+Iteracion 32
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 437109.5
+Iteracion 33
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 443134.0
+Iteracion 34
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 451377.0
+Iteracion 35
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 443695.5
+Iteracion 36
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 441882.0
+Iteracion 37
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 444893.0
+Iteracion 38
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 447461.5
+Iteracion 39
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 436062.5
+Iteracion 40
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 437055.5
+Iteracion 41
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 437224.0
+Iteracion 42
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 431345.5
+Iteracion 43
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 437414.0
+Iteracion 44
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 430184.0
+Iteracion 45
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 432302.0
+Iteracion 46
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 432003.5
+Iteracion 47
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 434161.5
+Iteracion 48
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 434185.0
+Iteracion 49
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 437612.0
+Iteracion 50
+(Seed) solucion local: 429158.0
+(Seed) solucion encontrada: 444599.0
+Seed local: [37, 21, 14, 53, 45, 22, 10, 4, 48, 27, 12, 50, 16, 34, 17, 11, 28, 39, 33, 20, 8, 41, 32, 54, 7, 24, 18, 6, 26, 55, 40, 29, 15, 13, 30, 3, 2, 42, 25, 1, 23, 5, 49, 47, 44, 0, 43, 38, 9, 35, 51, 52, 46, 19, 36, 31]
+Solucion local: 429158.0
+
+VECINDARIO 5
+Seed: [24, 9, 25, 8, 21, 44, 4, 32, 3, 19, 28, 51, 42, 10, 29, 7, 16, 11, 26, 40, 39, 53, 2, 46, 6, 27, 41, 36, 1, 38, 49, 37, 31, 0, 35, 23, 52, 13, 20, 48, 50, 17, 47, 43, 22, 34, 15, 12, 14, 45, 55, 5, 18, 54, 33, 30]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 446595.5
+Iteracion 2
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 450354.5
+Iteracion 3
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 448430.5
+Iteracion 4
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 450378.5
+Iteracion 5
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 451875.5
+Iteracion 6
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 451245.0
+Iteracion 7
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 451213.5
+Iteracion 8
+(Seed) solucion local: 446595.5
+(Seed) solucion encontrada: 443349.0
+Iteracion 9
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 451189.0
+Iteracion 10
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 454932.0
+Iteracion 11
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 454726.0
+Iteracion 12
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 448807.5
+Iteracion 13
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 448833.5
+Iteracion 14
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 448829.5
+Iteracion 15
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 448717.0
+Iteracion 16
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 450354.0
+Iteracion 17
+(Seed) solucion local: 443349.0
+(Seed) solucion encontrada: 442598.0
+Iteracion 18
+(Seed) solucion local: 442598.0
+(Seed) solucion encontrada: 445384.0
+Iteracion 19
+(Seed) solucion local: 442598.0
+(Seed) solucion encontrada: 440278.5
+Iteracion 20
+(Seed) solucion local: 440278.5
+(Seed) solucion encontrada: 437922.0
+Iteracion 21
+(Seed) solucion local: 437922.0
+(Seed) solucion encontrada: 434032.0
+Iteracion 22
+(Seed) solucion local: 434032.0
+(Seed) solucion encontrada: 432958.5
+Iteracion 23
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 436345.5
+Iteracion 24
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 435078.0
+Iteracion 25
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 441978.0
+Iteracion 26
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 440913.0
+Iteracion 27
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 441407.0
+Iteracion 28
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 436778.5
+Iteracion 29
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 437849.0
+Iteracion 30
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 439986.0
+Iteracion 31
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 438855.0
+Iteracion 32
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 439607.0
+Iteracion 33
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 442795.5
+Iteracion 34
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 439733.5
+Iteracion 35
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 439817.5
+Iteracion 36
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 446029.5
+Iteracion 37
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 451781.0
+Iteracion 38
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 452618.5
+Iteracion 39
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 453269.5
+Iteracion 40
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 448522.5
+Iteracion 41
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 445947.0
+Iteracion 42
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 448745.0
+Iteracion 43
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 448933.0
+Iteracion 44
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 456538.0
+Iteracion 45
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 458254.0
+Iteracion 46
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 467231.5
+Iteracion 47
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 466883.0
+Iteracion 48
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 472804.5
+Iteracion 49
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 471221.0
+Iteracion 50
+(Seed) solucion local: 432958.5
+(Seed) solucion encontrada: 476674.0
+Seed local: [24, 6, 26, 8, 49, 19, 9, 13, 52, 41, 43, 11, 18, 0, 29, 46, 15, 1, 47, 22, 42, 51, 28, 14, 53, 40, 2, 36, 38, 17, 25, 12, 31, 4, 35, 23, 32, 21, 20, 48, 50, 37, 16, 10, 55, 34, 7, 3, 44, 45, 30, 5, 39, 54, 33, 27]
+Solucion local: 432958.5
+
+VECINDARIO 6
+Seed: [21, 34, 24, 3, 4, 38, 1, 23, 19, 11, 49, 12, 7, 10, 2, 37, 41, 33, 47, 22, 39, 44, 18, 29, 54, 13, 26, 30, 35, 14, 52, 48, 40, 28, 6, 8, 17, 32, 25, 51, 5, 31, 43, 50, 55, 46, 53, 45, 0, 16, 42, 9, 20, 27, 36, 15]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 428510.5
+Iteracion 2
+(Seed) solucion local: 428510.5
+(Seed) solucion encontrada: 427632.5
+Iteracion 3
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 431594.0
+Iteracion 4
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 433404.0
+Iteracion 5
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 434934.0
+Iteracion 6
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 437553.5
+Iteracion 7
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 437779.0
+Iteracion 8
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 441025.5
+Iteracion 9
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 441746.0
+Iteracion 10
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 449968.5
+Iteracion 11
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 447289.0
+Iteracion 12
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 449805.0
+Iteracion 13
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 447248.0
+Iteracion 14
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 454116.0
+Iteracion 15
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 459587.0
+Iteracion 16
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 459914.0
+Iteracion 17
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 460482.5
+Iteracion 18
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 457406.0
+Iteracion 19
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 450832.0
+Iteracion 20
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 453001.0
+Iteracion 21
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 448508.5
+Iteracion 22
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 439931.0
+Iteracion 23
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 440884.0
+Iteracion 24
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 448322.0
+Iteracion 25
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 447622.0
+Iteracion 26
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 448194.0
+Iteracion 27
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 447184.0
+Iteracion 28
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 452379.5
+Iteracion 29
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 461594.5
+Iteracion 30
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 470622.5
+Iteracion 31
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 473119.5
+Iteracion 32
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 466748.0
+Iteracion 33
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 456536.5
+Iteracion 34
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 457324.5
+Iteracion 35
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 461972.5
+Iteracion 36
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 462193.0
+Iteracion 37
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 469707.0
+Iteracion 38
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 462810.0
+Iteracion 39
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 462857.5
+Iteracion 40
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 460941.5
+Iteracion 41
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 460534.5
+Iteracion 42
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 458901.5
+Iteracion 43
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 457761.0
+Iteracion 44
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 458464.5
+Iteracion 45
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 448233.5
+Iteracion 46
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 445869.5
+Iteracion 47
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 445375.5
+Iteracion 48
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 456164.5
+Iteracion 49
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 460302.5
+Iteracion 50
+(Seed) solucion local: 427632.5
+(Seed) solucion encontrada: 454721.5
+Seed local: [8, 2, 13, 3, 45, 21, 1, 23, 51, 50, 47, 12, 40, 10, 14, 38, 41, 0, 15, 46, 39, 30, 27, 16, 26, 4, 31, 37, 35, 34, 11, 28, 53, 18, 6, 25, 17, 9, 24, 19, 20, 52, 43, 48, 54, 22, 32, 36, 42, 44, 7, 33, 29, 49, 55, 5]
+Solucion local: 427632.5
+
+VECINDARIO 7
+Seed: [21, 31, 22, 53, 35, 32, 28, 26, 45, 38, 40, 29, 49, 44, 15, 51, 9, 37, 1, 46, 34, 23, 18, 55, 5, 14, 2, 6, 3, 48, 47, 36, 0, 33, 13, 41, 17, 52, 11, 30, 12, 42, 7, 10, 27, 24, 43, 39, 8, 50, 16, 54, 20, 19, 4, 25]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 448190.5
+Iteracion 2
+(Seed) solucion local: 448190.5
+(Seed) solucion encontrada: 452332.5
+Iteracion 3
+(Seed) solucion local: 448190.5
+(Seed) solucion encontrada: 452909.5
+Iteracion 4
+(Seed) solucion local: 448190.5
+(Seed) solucion encontrada: 449322.0
+Iteracion 5
+(Seed) solucion local: 448190.5
+(Seed) solucion encontrada: 437103.0
+Iteracion 6
+(Seed) solucion local: 437103.0
+(Seed) solucion encontrada: 438497.0
+Iteracion 7
+(Seed) solucion local: 437103.0
+(Seed) solucion encontrada: 439716.5
+Iteracion 8
+(Seed) solucion local: 437103.0
+(Seed) solucion encontrada: 436431.5
+Iteracion 9
+(Seed) solucion local: 436431.5
+(Seed) solucion encontrada: 434951.5
+Iteracion 10
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 435860.5
+Iteracion 11
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 440282.5
+Iteracion 12
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 442894.5
+Iteracion 13
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 456402.5
+Iteracion 14
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 455739.5
+Iteracion 15
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 455463.5
+Iteracion 16
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 457740.0
+Iteracion 17
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 475928.5
+Iteracion 18
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 479805.0
+Iteracion 19
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 476650.5
+Iteracion 20
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 474134.0
+Iteracion 21
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 472852.5
+Iteracion 22
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 465379.5
+Iteracion 23
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 468376.5
+Iteracion 24
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 469026.5
+Iteracion 25
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 468914.5
+Iteracion 26
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 467499.0
+Iteracion 27
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 470492.5
+Iteracion 28
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 465739.0
+Iteracion 29
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 461955.0
+Iteracion 30
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 458947.5
+Iteracion 31
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 461089.5
+Iteracion 32
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 443072.0
+Iteracion 33
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 439869.0
+Iteracion 34
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 439974.5
+Iteracion 35
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 442922.5
+Iteracion 36
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 443004.5
+Iteracion 37
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 444317.0
+Iteracion 38
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 443266.5
+Iteracion 39
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 437520.5
+Iteracion 40
+(Seed) solucion local: 434951.5
+(Seed) solucion encontrada: 434031.5
+Iteracion 41
+(Seed) solucion local: 434031.5
+(Seed) solucion encontrada: 431603.0
+Iteracion 42
+(Seed) solucion local: 431603.0
+(Seed) solucion encontrada: 428663.0
+Iteracion 43
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 431891.0
+Iteracion 44
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 431573.0
+Iteracion 45
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 431757.0
+Iteracion 46
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 431263.0
+Iteracion 47
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 438536.5
+Iteracion 48
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 438341.5
+Iteracion 49
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 439699.5
+Iteracion 50
+(Seed) solucion local: 428663.0
+(Seed) solucion encontrada: 440008.0
+Seed local: [54, 0, 2, 53, 3, 6, 49, 8, 23, 38, 30, 34, 47, 44, 15, 51, 14, 37, 11, 27, 17, 29, 21, 50, 5, 19, 9, 35, 25, 48, 55, 10, 40, 12, 33, 41, 32, 42, 28, 20, 16, 24, 22, 36, 52, 18, 7, 45, 46, 39, 13, 43, 1, 26, 4, 31]
+Solucion local: 428663.0
+
+VECINDARIO 8
+Seed: [51, 49, 24, 9, 32, 19, 6, 0, 41, 42, 30, 21, 45, 2, 43, 12, 17, 53, 31, 14, 15, 25, 23, 1, 22, 36, 55, 35, 28, 10, 54, 8, 29, 52, 3, 26, 7, 18, 37, 50, 20, 27, 46, 34, 33, 16, 13, 11, 48, 44, 4, 39, 38, 40, 5, 47]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 434564.0
+Iteracion 2
+(Seed) solucion local: 434564.0
+(Seed) solucion encontrada: 431444.0
+Iteracion 3
+(Seed) solucion local: 431444.0
+(Seed) solucion encontrada: 430884.5
+Iteracion 4
+(Seed) solucion local: 430884.5
+(Seed) solucion encontrada: 428437.5
+Iteracion 5
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 433891.5
+Iteracion 6
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 437134.0
+Iteracion 7
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 440464.0
+Iteracion 8
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 442080.5
+Iteracion 9
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 445739.5
+Iteracion 10
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 445532.5
+Iteracion 11
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 446952.0
+Iteracion 12
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 456718.0
+Iteracion 13
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 458552.0
+Iteracion 14
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 457180.0
+Iteracion 15
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 457734.5
+Iteracion 16
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 457933.0
+Iteracion 17
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 455773.5
+Iteracion 18
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 454030.5
+Iteracion 19
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 455282.5
+Iteracion 20
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 453024.5
+Iteracion 21
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 448672.0
+Iteracion 22
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 450842.0
+Iteracion 23
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 453440.5
+Iteracion 24
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 458287.5
+Iteracion 25
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 464126.0
+Iteracion 26
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 462290.5
+Iteracion 27
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 462784.5
+Iteracion 28
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 462405.5
+Iteracion 29
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 463347.5
+Iteracion 30
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 461298.0
+Iteracion 31
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 463389.5
+Iteracion 32
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 463742.5
+Iteracion 33
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 465958.0
+Iteracion 34
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 460156.0
+Iteracion 35
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 462281.0
+Iteracion 36
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 461083.0
+Iteracion 37
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 461614.5
+Iteracion 38
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 460804.5
+Iteracion 39
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 459621.5
+Iteracion 40
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 458335.5
+Iteracion 41
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 462134.5
+Iteracion 42
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 448838.5
+Iteracion 43
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 454084.5
+Iteracion 44
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 453984.5
+Iteracion 45
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 456110.0
+Iteracion 46
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 459385.0
+Iteracion 47
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 455958.5
+Iteracion 48
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 452611.5
+Iteracion 49
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 450819.0
+Iteracion 50
+(Seed) solucion local: 428437.5
+(Seed) solucion encontrada: 444545.0
+Seed local: [46, 53, 48, 54, 5, 29, 27, 40, 41, 2, 10, 21, 28, 35, 50, 12, 14, 26, 49, 1, 15, 8, 17, 22, 6, 33, 51, 31, 55, 47, 19, 36, 0, 52, 20, 24, 25, 13, 7, 43, 37, 9, 3, 34, 4, 16, 23, 11, 32, 44, 30, 39, 38, 42, 18, 45]
+Solucion local: 428437.5
+
+VECINDARIO 9
+Seed: [17, 18, 47, 29, 28, 12, 23, 37, 30, 48, 1, 0, 14, 26, 21, 45, 42, 15, 9, 52, 46, 25, 10, 53, 3, 41, 7, 34, 38, 51, 35, 44, 39, 36, 20, 2, 32, 27, 24, 22, 43, 13, 8, 50, 5, 11, 40, 16, 4, 6, 31, 55, 33, 54, 49, 19]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 485862.5
+Iteracion 2
+(Seed) solucion local: 485862.5
+(Seed) solucion encontrada: 495611.5
+Iteracion 3
+(Seed) solucion local: 485862.5
+(Seed) solucion encontrada: 483024.0
+Iteracion 4
+(Seed) solucion local: 483024.0
+(Seed) solucion encontrada: 476857.0
+Iteracion 5
+(Seed) solucion local: 476857.0
+(Seed) solucion encontrada: 476211.0
+Iteracion 6
+(Seed) solucion local: 476211.0
+(Seed) solucion encontrada: 480837.0
+Iteracion 7
+(Seed) solucion local: 476211.0
+(Seed) solucion encontrada: 476450.5
+Iteracion 8
+(Seed) solucion local: 476211.0
+(Seed) solucion encontrada: 475595.5
+Iteracion 9
+(Seed) solucion local: 475595.5
+(Seed) solucion encontrada: 473863.5
+Iteracion 10
+(Seed) solucion local: 473863.5
+(Seed) solucion encontrada: 473557.5
+Iteracion 11
+(Seed) solucion local: 473557.5
+(Seed) solucion encontrada: 473179.5
+Iteracion 12
+(Seed) solucion local: 473179.5
+(Seed) solucion encontrada: 469361.5
+Iteracion 13
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 478857.0
+Iteracion 14
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 475328.5
+Iteracion 15
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 471935.5
+Iteracion 16
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 470191.5
+Iteracion 17
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 470394.5
+Iteracion 18
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 474913.0
+Iteracion 19
+(Seed) solucion local: 469361.5
+(Seed) solucion encontrada: 466685.0
+Iteracion 20
+(Seed) solucion local: 466685.0
+(Seed) solucion encontrada: 462625.0
+Iteracion 21
+(Seed) solucion local: 462625.0
+(Seed) solucion encontrada: 462297.0
+Iteracion 22
+(Seed) solucion local: 462297.0
+(Seed) solucion encontrada: 451910.0
+Iteracion 23
+(Seed) solucion local: 451910.0
+(Seed) solucion encontrada: 452664.5
+Iteracion 24
+(Seed) solucion local: 451910.0
+(Seed) solucion encontrada: 452552.5
+Iteracion 25
+(Seed) solucion local: 451910.0
+(Seed) solucion encontrada: 449125.5
+Iteracion 26
+(Seed) solucion local: 449125.5
+(Seed) solucion encontrada: 450238.0
+Iteracion 27
+(Seed) solucion local: 449125.5
+(Seed) solucion encontrada: 451566.0
+Iteracion 28
+(Seed) solucion local: 449125.5
+(Seed) solucion encontrada: 452455.0
+Iteracion 29
+(Seed) solucion local: 449125.5
+(Seed) solucion encontrada: 444822.0
+Iteracion 30
+(Seed) solucion local: 444822.0
+(Seed) solucion encontrada: 445110.0
+Iteracion 31
+(Seed) solucion local: 444822.0
+(Seed) solucion encontrada: 447625.0
+Iteracion 32
+(Seed) solucion local: 444822.0
+(Seed) solucion encontrada: 445079.0
+Iteracion 33
+(Seed) solucion local: 444822.0
+(Seed) solucion encontrada: 444235.0
+Iteracion 34
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 455127.5
+Iteracion 35
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 457336.0
+Iteracion 36
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 458982.5
+Iteracion 37
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 454525.5
+Iteracion 38
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 452970.5
+Iteracion 39
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 453812.5
+Iteracion 40
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 455302.0
+Iteracion 41
+(Seed) solucion local: 444235.0
+(Seed) solucion encontrada: 443109.0
+Iteracion 42
+(Seed) solucion local: 443109.0
+(Seed) solucion encontrada: 442921.0
+Iteracion 43
+(Seed) solucion local: 442921.0
+(Seed) solucion encontrada: 447532.5
+Iteracion 44
+(Seed) solucion local: 442921.0
+(Seed) solucion encontrada: 443166.5
+Iteracion 45
+(Seed) solucion local: 442921.0
+(Seed) solucion encontrada: 435580.5
+Iteracion 46
+(Seed) solucion local: 435580.5
+(Seed) solucion encontrada: 449180.0
+Iteracion 47
+(Seed) solucion local: 435580.5
+(Seed) solucion encontrada: 454893.5
+Iteracion 48
+(Seed) solucion local: 435580.5
+(Seed) solucion encontrada: 448286.0
+Iteracion 49
+(Seed) solucion local: 435580.5
+(Seed) solucion encontrada: 450571.0
+Iteracion 50
+(Seed) solucion local: 435580.5
+(Seed) solucion encontrada: 452657.0
+Seed local: [34, 48, 43, 37, 28, 14, 23, 13, 10, 31, 1, 0, 44, 39, 21, 2, 6, 15, 42, 4, 22, 46, 9, 53, 16, 47, 12, 29, 41, 51, 20, 30, 49, 24, 8, 17, 25, 27, 32, 5, 52, 36, 55, 50, 7, 33, 45, 19, 26, 40, 11, 38, 18, 54, 3, 35]
+Solucion local: 435580.5
+
+VECINDARIO 10
+Seed: [29, 40, 15, 17, 30, 8, 44, 48, 4, 49, 46, 6, 18, 13, 23, 53, 39, 20, 27, 11, 22, 3, 7, 45, 12, 25, 32, 37, 5, 26, 34, 52, 54, 10, 21, 9, 36, 50, 31, 51, 47, 24, 2, 19, 1, 43, 14, 28, 55, 33, 0, 35, 42, 41, 16, 38]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 458145.0
+Iteracion 2
+(Seed) solucion local: 458145.0
+(Seed) solucion encontrada: 457414.5
+Iteracion 3
+(Seed) solucion local: 457414.5
+(Seed) solucion encontrada: 457227.5
+Iteracion 4
+(Seed) solucion local: 457227.5
+(Seed) solucion encontrada: 456588.5
+Iteracion 5
+(Seed) solucion local: 456588.5
+(Seed) solucion encontrada: 456882.5
+Iteracion 6
+(Seed) solucion local: 456588.5
+(Seed) solucion encontrada: 452977.5
+Iteracion 7
+(Seed) solucion local: 452977.5
+(Seed) solucion encontrada: 452114.0
+Iteracion 8
+(Seed) solucion local: 452114.0
+(Seed) solucion encontrada: 452156.5
+Iteracion 9
+(Seed) solucion local: 452114.0
+(Seed) solucion encontrada: 446827.5
+Iteracion 10
+(Seed) solucion local: 446827.5
+(Seed) solucion encontrada: 449647.5
+Iteracion 11
+(Seed) solucion local: 446827.5
+(Seed) solucion encontrada: 443313.5
+Iteracion 12
+(Seed) solucion local: 443313.5
+(Seed) solucion encontrada: 441999.5
+Iteracion 13
+(Seed) solucion local: 441999.5
+(Seed) solucion encontrada: 440526.5
+Iteracion 14
+(Seed) solucion local: 440526.5
+(Seed) solucion encontrada: 441568.5
+Iteracion 15
+(Seed) solucion local: 440526.5
+(Seed) solucion encontrada: 442107.5
+Iteracion 16
+(Seed) solucion local: 440526.5
+(Seed) solucion encontrada: 440313.5
+Iteracion 17
+(Seed) solucion local: 440313.5
+(Seed) solucion encontrada: 442964.0
+Iteracion 18
+(Seed) solucion local: 440313.5
+(Seed) solucion encontrada: 441473.0
+Iteracion 19
+(Seed) solucion local: 440313.5
+(Seed) solucion encontrada: 438901.0
+Iteracion 20
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 444591.0
+Iteracion 21
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 446233.0
+Iteracion 22
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 457789.5
+Iteracion 23
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 456712.5
+Iteracion 24
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 459769.5
+Iteracion 25
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 457748.5
+Iteracion 26
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 459693.0
+Iteracion 27
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 461015.0
+Iteracion 28
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 461635.5
+Iteracion 29
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 462286.0
+Iteracion 30
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 469791.0
+Iteracion 31
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 469208.0
+Iteracion 32
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 463054.0
+Iteracion 33
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 463575.0
+Iteracion 34
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 455990.5
+Iteracion 35
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 448651.5
+Iteracion 36
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 443352.0
+Iteracion 37
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 443185.0
+Iteracion 38
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 441497.5
+Iteracion 39
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 440380.5
+Iteracion 40
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 442878.5
+Iteracion 41
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 443483.0
+Iteracion 42
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 443560.5
+Iteracion 43
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 444094.0
+Iteracion 44
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 447213.0
+Iteracion 45
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 441024.0
+Iteracion 46
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 439429.5
+Iteracion 47
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 446519.0
+Iteracion 48
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 442930.5
+Iteracion 49
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 449807.0
+Iteracion 50
+(Seed) solucion local: 438901.0
+(Seed) solucion encontrada: 450032.5
+Seed local: [29, 11, 14, 53, 45, 26, 12, 6, 4, 27, 46, 52, 30, 5, 37, 35, 39, 41, 1, 36, 28, 15, 40, 2, 23, 25, 9, 33, 43, 3, 10, 16, 22, 48, 8, 32, 18, 54, 17, 44, 47, 20, 19, 21, 38, 34, 31, 24, 55, 49, 0, 13, 50, 51, 42, 7]
+Solucion local: 438901.0
+
+VECINDARIO 11
+Seed: [45, 20, 47, 43, 55, 42, 50, 24, 16, 52, 38, 31, 18, 48, 49, 2, 7, 33, 3, 0, 22, 29, 14, 51, 8, 4, 40, 6, 54, 44, 13, 25, 35, 15, 23, 12, 34, 9, 39, 46, 1, 5, 19, 21, 30, 32, 53, 27, 10, 28, 37, 41, 11, 26, 36, 17]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 445230.5
+Iteracion 2
+(Seed) solucion local: 445230.5
+(Seed) solucion encontrada: 436466.5
+Iteracion 3
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 440004.5
+Iteracion 4
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 449135.5
+Iteracion 5
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 443213.0
+Iteracion 6
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 439342.0
+Iteracion 7
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 439063.0
+Iteracion 8
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 444308.5
+Iteracion 9
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 450773.0
+Iteracion 10
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 454669.5
+Iteracion 11
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 453909.0
+Iteracion 12
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 453688.0
+Iteracion 13
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 454351.0
+Iteracion 14
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 460444.0
+Iteracion 15
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 450168.0
+Iteracion 16
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 445857.0
+Iteracion 17
+(Seed) solucion local: 436466.5
+(Seed) solucion encontrada: 435734.0
+Iteracion 18
+(Seed) solucion local: 435734.0
+(Seed) solucion encontrada: 434987.5
+Iteracion 19
+(Seed) solucion local: 434987.5
+(Seed) solucion encontrada: 437130.5
+Iteracion 20
+(Seed) solucion local: 434987.5
+(Seed) solucion encontrada: 436037.0
+Iteracion 21
+(Seed) solucion local: 434987.5
+(Seed) solucion encontrada: 434076.0
+Iteracion 22
+(Seed) solucion local: 434076.0
+(Seed) solucion encontrada: 432818.5
+Iteracion 23
+(Seed) solucion local: 432818.5
+(Seed) solucion encontrada: 432547.5
+Iteracion 24
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 444125.0
+Iteracion 25
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 441130.5
+Iteracion 26
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 444286.0
+Iteracion 27
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 438595.0
+Iteracion 28
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 438475.0
+Iteracion 29
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 452740.5
+Iteracion 30
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 452919.0
+Iteracion 31
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 452042.0
+Iteracion 32
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 453055.0
+Iteracion 33
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 456735.0
+Iteracion 34
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 471488.0
+Iteracion 35
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 467108.5
+Iteracion 36
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 467398.5
+Iteracion 37
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 467475.0
+Iteracion 38
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 466254.0
+Iteracion 39
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 468317.5
+Iteracion 40
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 468171.0
+Iteracion 41
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 468440.0
+Iteracion 42
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 473736.5
+Iteracion 43
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 471696.5
+Iteracion 44
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 466260.0
+Iteracion 45
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 470285.0
+Iteracion 46
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 466415.0
+Iteracion 47
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 465536.0
+Iteracion 48
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 459679.0
+Iteracion 49
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 452395.5
+Iteracion 50
+(Seed) solucion local: 432547.5
+(Seed) solucion encontrada: 450034.5
+Seed local: [22, 20, 40, 41, 23, 27, 38, 17, 31, 6, 35, 30, 36, 29, 16, 28, 11, 47, 3, 0, 21, 26, 39, 54, 8, 4, 33, 46, 51, 32, 14, 25, 10, 15, 48, 12, 55, 24, 9, 45, 1, 5, 53, 52, 34, 50, 18, 13, 49, 7, 37, 43, 42, 2, 44, 19]
+Solucion local: 432547.5
+
+VECINDARIO 12
+Seed: [45, 48, 20, 39, 28, 54, 27, 43, 50, 29, 6, 49, 41, 17, 47, 46, 3, 25, 22, 44, 23, 53, 52, 9, 0, 2, 31, 40, 5, 16, 4, 21, 11, 26, 34, 14, 19, 30, 10, 8, 35, 12, 1, 24, 18, 55, 33, 15, 13, 38, 51, 7, 32, 42, 37, 36]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 447034.0
+Iteracion 2
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 448389.5
+Iteracion 3
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 449469.5
+Iteracion 4
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 450443.5
+Iteracion 5
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 449671.0
+Iteracion 6
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 453453.5
+Iteracion 7
+(Seed) solucion local: 447034.0
+(Seed) solucion encontrada: 447027.0
+Iteracion 8
+(Seed) solucion local: 447027.0
+(Seed) solucion encontrada: 448419.0
+Iteracion 9
+(Seed) solucion local: 447027.0
+(Seed) solucion encontrada: 445091.5
+Iteracion 10
+(Seed) solucion local: 445091.5
+(Seed) solucion encontrada: 439504.5
+Iteracion 11
+(Seed) solucion local: 439504.5
+(Seed) solucion encontrada: 437814.5
+Iteracion 12
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 442043.5
+Iteracion 13
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 442589.5
+Iteracion 14
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 440941.0
+Iteracion 15
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 441405.0
+Iteracion 16
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 441559.0
+Iteracion 17
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 438928.0
+Iteracion 18
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 438621.5
+Iteracion 19
+(Seed) solucion local: 437814.5
+(Seed) solucion encontrada: 437356.0
+Iteracion 20
+(Seed) solucion local: 437356.0
+(Seed) solucion encontrada: 434530.5
+Iteracion 21
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 437002.5
+Iteracion 22
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 446359.0
+Iteracion 23
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 443342.0
+Iteracion 24
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 442594.0
+Iteracion 25
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 439628.0
+Iteracion 26
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 437852.5
+Iteracion 27
+(Seed) solucion local: 434530.5
+(Seed) solucion encontrada: 433844.0
+Iteracion 28
+(Seed) solucion local: 433844.0
+(Seed) solucion encontrada: 431492.0
+Iteracion 29
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 438195.5
+Iteracion 30
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 438614.5
+Iteracion 31
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 439229.5
+Iteracion 32
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 441008.5
+Iteracion 33
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 446102.5
+Iteracion 34
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 448827.5
+Iteracion 35
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 447455.0
+Iteracion 36
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 445220.5
+Iteracion 37
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 440305.5
+Iteracion 38
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 441560.0
+Iteracion 39
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 441603.0
+Iteracion 40
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 438935.0
+Iteracion 41
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 435768.5
+Iteracion 42
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 435053.5
+Iteracion 43
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 438247.0
+Iteracion 44
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 435059.0
+Iteracion 45
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 432301.0
+Iteracion 46
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 432443.0
+Iteracion 47
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 441466.5
+Iteracion 48
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 438926.5
+Iteracion 49
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 439290.5
+Iteracion 50
+(Seed) solucion local: 431492.0
+(Seed) solucion encontrada: 437451.5
+Seed local: [25, 42, 8, 16, 33, 15, 37, 43, 26, 2, 27, 35, 18, 17, 10, 45, 6, 50, 28, 13, 1, 3, 52, 23, 22, 20, 31, 40, 47, 14, 30, 39, 11, 36, 49, 48, 46, 0, 5, 44, 19, 41, 29, 24, 7, 55, 53, 34, 4, 54, 51, 12, 32, 9, 21, 38]
+Solucion local: 431492.0
+
+VECINDARIO 13
+Seed: [6, 2, 42, 41, 20, 22, 54, 36, 47, 8, 34, 10, 35, 17, 40, 48, 13, 27, 21, 19, 50, 25, 7, 52, 46, 3, 32, 16, 1, 24, 28, 18, 29, 33, 31, 30, 14, 4, 15, 5, 11, 45, 12, 55, 0, 43, 37, 38, 44, 53, 51, 39, 23, 26, 9, 49]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 453498.5
+Iteracion 2
+(Seed) solucion local: 453498.5
+(Seed) solucion encontrada: 453007.0
+Iteracion 3
+(Seed) solucion local: 453007.0
+(Seed) solucion encontrada: 454130.5
+Iteracion 4
+(Seed) solucion local: 453007.0
+(Seed) solucion encontrada: 455334.5
+Iteracion 5
+(Seed) solucion local: 453007.0
+(Seed) solucion encontrada: 447807.5
+Iteracion 6
+(Seed) solucion local: 447807.5
+(Seed) solucion encontrada: 449497.0
+Iteracion 7
+(Seed) solucion local: 447807.5
+(Seed) solucion encontrada: 444620.0
+Iteracion 8
+(Seed) solucion local: 444620.0
+(Seed) solucion encontrada: 446475.0
+Iteracion 9
+(Seed) solucion local: 444620.0
+(Seed) solucion encontrada: 443184.5
+Iteracion 10
+(Seed) solucion local: 443184.5
+(Seed) solucion encontrada: 454717.5
+Iteracion 11
+(Seed) solucion local: 443184.5
+(Seed) solucion encontrada: 450255.0
+Iteracion 12
+(Seed) solucion local: 443184.5
+(Seed) solucion encontrada: 451958.0
+Iteracion 13
+(Seed) solucion local: 443184.5
+(Seed) solucion encontrada: 437926.5
+Iteracion 14
+(Seed) solucion local: 437926.5
+(Seed) solucion encontrada: 437740.5
+Iteracion 15
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 442701.0
+Iteracion 16
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 447399.5
+Iteracion 17
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 447079.0
+Iteracion 18
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 449108.0
+Iteracion 19
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 449755.0
+Iteracion 20
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 453930.5
+Iteracion 21
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 453754.5
+Iteracion 22
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 455500.5
+Iteracion 23
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 458504.5
+Iteracion 24
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 455306.0
+Iteracion 25
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 458555.0
+Iteracion 26
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 457841.5
+Iteracion 27
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 452422.0
+Iteracion 28
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 452451.5
+Iteracion 29
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 451711.5
+Iteracion 30
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 447803.5
+Iteracion 31
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 438305.0
+Iteracion 32
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 445311.0
+Iteracion 33
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 450472.0
+Iteracion 34
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 450565.5
+Iteracion 35
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 448955.5
+Iteracion 36
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444744.5
+Iteracion 37
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444328.5
+Iteracion 38
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 446236.5
+Iteracion 39
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 450296.5
+Iteracion 40
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 439359.5
+Iteracion 41
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 442255.0
+Iteracion 42
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444083.0
+Iteracion 43
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 450142.0
+Iteracion 44
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 448911.0
+Iteracion 45
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 446103.0
+Iteracion 46
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444717.5
+Iteracion 47
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444684.5
+Iteracion 48
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 445160.5
+Iteracion 49
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 446651.0
+Iteracion 50
+(Seed) solucion local: 437740.5
+(Seed) solucion encontrada: 444838.5
+Seed local: [1, 38, 22, 24, 32, 23, 19, 36, 8, 34, 51, 10, 30, 25, 52, 20, 49, 44, 40, 2, 9, 4, 7, 21, 6, 3, 29, 13, 12, 43, 41, 39, 16, 26, 35, 46, 50, 27, 33, 42, 5, 45, 15, 55, 0, 47, 37, 48, 17, 53, 28, 18, 14, 31, 11, 54]
+Solucion local: 437740.5
+
+VECINDARIO 14
+Seed: [38, 17, 26, 42, 41, 33, 46, 51, 10, 3, 53, 1, 21, 19, 48, 16, 13, 25, 30, 9, 18, 24, 11, 27, 12, 36, 37, 22, 28, 52, 29, 6, 47, 50, 20, 14, 0, 2, 45, 39, 40, 55, 23, 32, 15, 54, 49, 8, 4, 43, 7, 34, 31, 35, 5, 44]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 455387.0
+Iteracion 2
+(Seed) solucion local: 455387.0
+(Seed) solucion encontrada: 456871.0
+Iteracion 3
+(Seed) solucion local: 455387.0
+(Seed) solucion encontrada: 455893.0
+Iteracion 4
+(Seed) solucion local: 455387.0
+(Seed) solucion encontrada: 456006.5
+Iteracion 5
+(Seed) solucion local: 455387.0
+(Seed) solucion encontrada: 456648.5
+Iteracion 6
+(Seed) solucion local: 455387.0
+(Seed) solucion encontrada: 454042.5
+Iteracion 7
+(Seed) solucion local: 454042.5
+(Seed) solucion encontrada: 453883.5
+Iteracion 8
+(Seed) solucion local: 453883.5
+(Seed) solucion encontrada: 445676.5
+Iteracion 9
+(Seed) solucion local: 445676.5
+(Seed) solucion encontrada: 442181.5
+Iteracion 10
+(Seed) solucion local: 442181.5
+(Seed) solucion encontrada: 440447.0
+Iteracion 11
+(Seed) solucion local: 440447.0
+(Seed) solucion encontrada: 439058.5
+Iteracion 12
+(Seed) solucion local: 439058.5
+(Seed) solucion encontrada: 438782.0
+Iteracion 13
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 443289.5
+Iteracion 14
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 443304.0
+Iteracion 15
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 444035.0
+Iteracion 16
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 445069.0
+Iteracion 17
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 452921.5
+Iteracion 18
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 452496.0
+Iteracion 19
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 449507.5
+Iteracion 20
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 449735.5
+Iteracion 21
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 450034.0
+Iteracion 22
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 449897.0
+Iteracion 23
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 448877.5
+Iteracion 24
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 443357.5
+Iteracion 25
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 443134.0
+Iteracion 26
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 442366.5
+Iteracion 27
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 447280.0
+Iteracion 28
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 453800.5
+Iteracion 29
+(Seed) solucion local: 438782.0
+(Seed) solucion encontrada: 437699.5
+Iteracion 30
+(Seed) solucion local: 437699.5
+(Seed) solucion encontrada: 430226.5
+Iteracion 31
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 433864.0
+Iteracion 32
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 433371.0
+Iteracion 33
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 430764.5
+Iteracion 34
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 432564.5
+Iteracion 35
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 434340.0
+Iteracion 36
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 435608.5
+Iteracion 37
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 432819.5
+Iteracion 38
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 439517.5
+Iteracion 39
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 441634.0
+Iteracion 40
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 441724.5
+Iteracion 41
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 447699.0
+Iteracion 42
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 437042.5
+Iteracion 43
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 435195.5
+Iteracion 44
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 438271.5
+Iteracion 45
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 437563.5
+Iteracion 46
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 437673.5
+Iteracion 47
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 438410.0
+Iteracion 48
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 438168.0
+Iteracion 49
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 442077.0
+Iteracion 50
+(Seed) solucion local: 430226.5
+(Seed) solucion encontrada: 430845.5
+Seed local: [38, 17, 26, 0, 14, 30, 22, 12, 7, 3, 33, 31, 20, 10, 44, 36, 39, 50, 42, 47, 51, 34, 54, 27, 13, 41, 37, 45, 35, 52, 11, 6, 21, 18, 49, 29, 9, 23, 1, 28, 24, 55, 2, 32, 46, 43, 4, 8, 25, 5, 53, 15, 48, 40, 16, 19]
+Solucion local: 430226.5
+
+VECINDARIO 15
+Seed: [25, 3, 50, 13, 33, 36, 16, 20, 9, 22, 17, 14, 12, 28, 23, 27, 37, 49, 54, 15, 19, 55, 39, 53, 34, 46, 31, 11, 1, 51, 41, 30, 2, 6, 43, 8, 47, 24, 0, 44, 7, 5, 32, 48, 4, 18, 29, 21, 52, 40, 45, 26, 42, 10, 35, 38]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 445377.0
+Iteracion 2
+(Seed) solucion local: 445377.0
+(Seed) solucion encontrada: 445374.0
+Iteracion 3
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 462939.5
+Iteracion 4
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 470078.0
+Iteracion 5
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 470744.0
+Iteracion 6
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 469907.0
+Iteracion 7
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 472389.5
+Iteracion 8
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 480086.5
+Iteracion 9
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 480956.5
+Iteracion 10
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 478858.0
+Iteracion 11
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 482090.0
+Iteracion 12
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 476097.0
+Iteracion 13
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 474328.5
+Iteracion 14
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 473823.5
+Iteracion 15
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 471854.5
+Iteracion 16
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 471308.5
+Iteracion 17
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 470620.0
+Iteracion 18
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 470917.5
+Iteracion 19
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 473314.0
+Iteracion 20
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 466506.0
+Iteracion 21
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 466849.0
+Iteracion 22
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 466826.0
+Iteracion 23
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 469546.0
+Iteracion 24
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 466405.0
+Iteracion 25
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 467421.5
+Iteracion 26
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 469150.5
+Iteracion 27
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 468625.0
+Iteracion 28
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 475916.5
+Iteracion 29
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 479703.0
+Iteracion 30
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 480611.5
+Iteracion 31
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 478310.5
+Iteracion 32
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 474895.5
+Iteracion 33
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 472681.5
+Iteracion 34
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 471057.0
+Iteracion 35
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 479680.0
+Iteracion 36
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 469807.5
+Iteracion 37
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 470434.5
+Iteracion 38
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 471641.5
+Iteracion 39
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 465208.5
+Iteracion 40
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 468874.5
+Iteracion 41
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 468916.5
+Iteracion 42
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 456563.5
+Iteracion 43
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 451160.0
+Iteracion 44
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 447602.0
+Iteracion 45
+(Seed) solucion local: 445374.0
+(Seed) solucion encontrada: 445010.5
+Iteracion 46
+(Seed) solucion local: 445010.5
+(Seed) solucion encontrada: 443116.5
+Iteracion 47
+(Seed) solucion local: 443116.5
+(Seed) solucion encontrada: 437100.5
+Iteracion 48
+(Seed) solucion local: 437100.5
+(Seed) solucion encontrada: 436484.5
+Iteracion 49
+(Seed) solucion local: 436484.5
+(Seed) solucion encontrada: 431296.0
+Iteracion 50
+(Seed) solucion local: 431296.0
+(Seed) solucion encontrada: 431320.5
+Seed local: [21, 33, 3, 18, 37, 36, 47, 53, 17, 22, 7, 54, 50, 51, 30, 48, 39, 16, 13, 27, 19, 4, 42, 44, 0, 11, 12, 32, 31, 8, 49, 5, 2, 9, 14, 41, 20, 24, 1, 10, 23, 6, 45, 15, 34, 55, 25, 46, 52, 28, 29, 38, 43, 26, 35, 40]
+Solucion local: 431296.0
+
+VECINDARIO 16
+Seed: [19, 2, 12, 28, 11, 46, 29, 25, 9, 55, 38, 26, 15, 21, 6, 47, 22, 5, 54, 32, 0, 43, 36, 34, 24, 4, 13, 51, 27, 39, 7, 40, 53, 50, 16, 1, 49, 41, 37, 18, 45, 30, 8, 48, 31, 42, 35, 10, 20, 3, 33, 44, 14, 52, 23, 17]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 471181.5
+Iteracion 2
+(Seed) solucion local: 471181.5
+(Seed) solucion encontrada: 474818.5
+Iteracion 3
+(Seed) solucion local: 471181.5
+(Seed) solucion encontrada: 475041.5
+Iteracion 4
+(Seed) solucion local: 471181.5
+(Seed) solucion encontrada: 474728.0
+Iteracion 5
+(Seed) solucion local: 471181.5
+(Seed) solucion encontrada: 465609.0
+Iteracion 6
+(Seed) solucion local: 465609.0
+(Seed) solucion encontrada: 470545.0
+Iteracion 7
+(Seed) solucion local: 465609.0
+(Seed) solucion encontrada: 460198.5
+Iteracion 8
+(Seed) solucion local: 460198.5
+(Seed) solucion encontrada: 449768.0
+Iteracion 9
+(Seed) solucion local: 449768.0
+(Seed) solucion encontrada: 441939.5
+Iteracion 10
+(Seed) solucion local: 441939.5
+(Seed) solucion encontrada: 441042.0
+Iteracion 11
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 446042.0
+Iteracion 12
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 452246.5
+Iteracion 13
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 454516.5
+Iteracion 14
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 453791.5
+Iteracion 15
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 454455.5
+Iteracion 16
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 448703.5
+Iteracion 17
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 446172.0
+Iteracion 18
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 446577.0
+Iteracion 19
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 444047.0
+Iteracion 20
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 444457.0
+Iteracion 21
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 442449.0
+Iteracion 22
+(Seed) solucion local: 441042.0
+(Seed) solucion encontrada: 438362.0
+Iteracion 23
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 439418.0
+Iteracion 24
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 443412.0
+Iteracion 25
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 445501.0
+Iteracion 26
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 442075.5
+Iteracion 27
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 442250.5
+Iteracion 28
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 453401.0
+Iteracion 29
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 453191.5
+Iteracion 30
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 464031.5
+Iteracion 31
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 462586.5
+Iteracion 32
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 457647.0
+Iteracion 33
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 456653.5
+Iteracion 34
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 457015.0
+Iteracion 35
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 456347.5
+Iteracion 36
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 452008.0
+Iteracion 37
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 452134.0
+Iteracion 38
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 460350.0
+Iteracion 39
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 462592.0
+Iteracion 40
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 469449.5
+Iteracion 41
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 462673.5
+Iteracion 42
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 462318.0
+Iteracion 43
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 457973.0
+Iteracion 44
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 458600.0
+Iteracion 45
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 453623.5
+Iteracion 46
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 453801.5
+Iteracion 47
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 454095.5
+Iteracion 48
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 454021.5
+Iteracion 49
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 451816.0
+Iteracion 50
+(Seed) solucion local: 438362.0
+(Seed) solucion encontrada: 449951.5
+Seed local: [35, 13, 53, 31, 17, 7, 38, 14, 9, 26, 24, 25, 15, 19, 6, 16, 22, 49, 27, 47, 0, 34, 30, 43, 10, 54, 37, 33, 36, 2, 46, 11, 39, 3, 12, 51, 41, 21, 55, 45, 20, 5, 4, 48, 28, 18, 50, 8, 40, 44, 32, 29, 1, 52, 23, 42]
+Solucion local: 438362.0
+
+VECINDARIO 17
+Seed: [30, 37, 42, 25, 26, 24, 41, 18, 55, 15, 43, 3, 23, 19, 49, 5, 21, 35, 27, 6, 34, 4, 7, 11, 0, 9, 2, 16, 28, 14, 22, 13, 31, 45, 33, 50, 12, 10, 17, 1, 53, 36, 8, 52, 54, 44, 51, 47, 32, 46, 20, 48, 38, 29, 40, 39]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 431234.5
+Iteracion 2
+(Seed) solucion local: 431234.5
+(Seed) solucion encontrada: 430200.5
+Iteracion 3
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 435007.5
+Iteracion 4
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 435920.0
+Iteracion 5
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 431659.5
+Iteracion 6
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 433519.0
+Iteracion 7
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 436837.0
+Iteracion 8
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 439333.5
+Iteracion 9
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 444978.5
+Iteracion 10
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 445502.5
+Iteracion 11
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 448672.5
+Iteracion 12
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 448751.5
+Iteracion 13
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 450230.5
+Iteracion 14
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 446589.5
+Iteracion 15
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 447158.5
+Iteracion 16
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 446614.5
+Iteracion 17
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 447128.5
+Iteracion 18
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 449078.0
+Iteracion 19
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 453908.0
+Iteracion 20
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 451780.5
+Iteracion 21
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 448547.0
+Iteracion 22
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 450295.0
+Iteracion 23
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 453757.0
+Iteracion 24
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 460841.5
+Iteracion 25
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 460274.5
+Iteracion 26
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 460032.0
+Iteracion 27
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 460130.0
+Iteracion 28
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 459394.5
+Iteracion 29
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 461939.0
+Iteracion 30
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 461852.0
+Iteracion 31
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 459487.0
+Iteracion 32
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 448298.0
+Iteracion 33
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 451633.5
+Iteracion 34
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 447920.0
+Iteracion 35
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 442178.5
+Iteracion 36
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 446940.5
+Iteracion 37
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 443864.5
+Iteracion 38
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 453827.0
+Iteracion 39
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 447447.5
+Iteracion 40
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 439755.5
+Iteracion 41
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 441113.5
+Iteracion 42
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 449775.5
+Iteracion 43
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 449469.0
+Iteracion 44
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 448966.0
+Iteracion 45
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 449074.5
+Iteracion 46
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 449217.5
+Iteracion 47
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 444023.0
+Iteracion 48
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 442014.0
+Iteracion 49
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 440103.0
+Iteracion 50
+(Seed) solucion local: 430200.5
+(Seed) solucion encontrada: 445572.5
+Seed local: [3, 31, 11, 40, 26, 53, 17, 42, 55, 10, 32, 46, 38, 14, 20, 18, 49, 35, 39, 6, 34, 47, 43, 28, 1, 2, 9, 45, 5, 30, 12, 13, 36, 51, 37, 33, 15, 21, 7, 29, 16, 41, 54, 52, 27, 44, 50, 23, 24, 48, 4, 8, 22, 25, 0, 19]
+Solucion local: 430200.5
+
+VECINDARIO 18
+Seed: [46, 11, 29, 32, 5, 7, 31, 48, 44, 8, 19, 2, 13, 37, 24, 45, 40, 21, 10, 54, 52, 41, 17, 47, 51, 36, 0, 43, 4, 22, 33, 30, 26, 15, 34, 55, 27, 6, 23, 53, 20, 28, 38, 12, 49, 18, 39, 14, 25, 50, 42, 16, 3, 35, 9, 1]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 447492.5
+Iteracion 2
+(Seed) solucion local: 447492.5
+(Seed) solucion encontrada: 448375.5
+Iteracion 3
+(Seed) solucion local: 447492.5
+(Seed) solucion encontrada: 449430.0
+Iteracion 4
+(Seed) solucion local: 447492.5
+(Seed) solucion encontrada: 444693.5
+Iteracion 5
+(Seed) solucion local: 444693.5
+(Seed) solucion encontrada: 446303.0
+Iteracion 6
+(Seed) solucion local: 444693.5
+(Seed) solucion encontrada: 446779.5
+Iteracion 7
+(Seed) solucion local: 444693.5
+(Seed) solucion encontrada: 437726.5
+Iteracion 8
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 441001.0
+Iteracion 9
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 440669.5
+Iteracion 10
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 447448.5
+Iteracion 11
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 444036.5
+Iteracion 12
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 441643.0
+Iteracion 13
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 445598.5
+Iteracion 14
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 449671.5
+Iteracion 15
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 451011.5
+Iteracion 16
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 453354.5
+Iteracion 17
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 442748.5
+Iteracion 18
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 443430.5
+Iteracion 19
+(Seed) solucion local: 437726.5
+(Seed) solucion encontrada: 435752.5
+Iteracion 20
+(Seed) solucion local: 435752.5
+(Seed) solucion encontrada: 437398.5
+Iteracion 21
+(Seed) solucion local: 435752.5
+(Seed) solucion encontrada: 438651.5
+Iteracion 22
+(Seed) solucion local: 435752.5
+(Seed) solucion encontrada: 431131.5
+Iteracion 23
+(Seed) solucion local: 431131.5
+(Seed) solucion encontrada: 434172.0
+Iteracion 24
+(Seed) solucion local: 431131.5
+(Seed) solucion encontrada: 430584.0
+Iteracion 25
+(Seed) solucion local: 430584.0
+(Seed) solucion encontrada: 431407.5
+Iteracion 26
+(Seed) solucion local: 430584.0
+(Seed) solucion encontrada: 433977.5
+Iteracion 27
+(Seed) solucion local: 430584.0
+(Seed) solucion encontrada: 439896.5
+Iteracion 28
+(Seed) solucion local: 430584.0
+(Seed) solucion encontrada: 435462.0
+Iteracion 29
+(Seed) solucion local: 430584.0
+(Seed) solucion encontrada: 429708.0
+Iteracion 30
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 435247.5
+Iteracion 31
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 433931.5
+Iteracion 32
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 433712.5
+Iteracion 33
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 432825.0
+Iteracion 34
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 431302.5
+Iteracion 35
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 430434.5
+Iteracion 36
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 429899.5
+Iteracion 37
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 430117.5
+Iteracion 38
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 430240.5
+Iteracion 39
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 434005.5
+Iteracion 40
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 434398.0
+Iteracion 41
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 441395.0
+Iteracion 42
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 438456.5
+Iteracion 43
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 431090.5
+Iteracion 44
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 429832.5
+Iteracion 45
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 433581.5
+Iteracion 46
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 441483.5
+Iteracion 47
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 447077.0
+Iteracion 48
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 448808.0
+Iteracion 49
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 446808.5
+Iteracion 50
+(Seed) solucion local: 429708.0
+(Seed) solucion encontrada: 447682.5
+Seed local: [20, 55, 19, 4, 21, 44, 24, 49, 5, 12, 51, 26, 13, 52, 36, 45, 7, 9, 10, 28, 53, 34, 42, 31, 2, 41, 0, 29, 40, 22, 33, 30, 14, 35, 46, 1, 43, 6, 3, 50, 39, 23, 8, 11, 38, 18, 27, 32, 15, 16, 54, 37, 17, 25, 47, 48]
+Solucion local: 429708.0
+
+VECINDARIO 19
+Seed: [20, 48, 14, 42, 18, 19, 34, 9, 3, 47, 50, 25, 22, 38, 39, 11, 26, 31, 15, 49, 53, 6, 23, 37, 13, 33, 28, 55, 41, 40, 30, 7, 44, 10, 24, 45, 36, 1, 5, 0, 54, 52, 16, 29, 17, 43, 8, 4, 51, 35, 27, 32, 46, 21, 2, 12]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 432680.5
+Iteracion 2
+(Seed) solucion local: 432680.5
+(Seed) solucion encontrada: 432057.5
+Iteracion 3
+(Seed) solucion local: 432057.5
+(Seed) solucion encontrada: 430308.5
+Iteracion 4
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 430866.5
+Iteracion 5
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 432444.5
+Iteracion 6
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 432234.0
+Iteracion 7
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 435031.0
+Iteracion 8
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 437669.5
+Iteracion 9
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 437355.5
+Iteracion 10
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 436754.0
+Iteracion 11
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 431628.0
+Iteracion 12
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 440090.0
+Iteracion 13
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 447841.0
+Iteracion 14
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 448206.0
+Iteracion 15
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 445630.0
+Iteracion 16
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 446277.5
+Iteracion 17
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 440608.5
+Iteracion 18
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 439574.5
+Iteracion 19
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 439367.5
+Iteracion 20
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 444713.5
+Iteracion 21
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 444445.5
+Iteracion 22
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 444849.5
+Iteracion 23
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 446769.5
+Iteracion 24
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 443017.5
+Iteracion 25
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 440274.5
+Iteracion 26
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 442136.5
+Iteracion 27
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 442614.0
+Iteracion 28
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 445543.0
+Iteracion 29
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 433962.5
+Iteracion 30
+(Seed) solucion local: 430308.5
+(Seed) solucion encontrada: 427561.5
+Iteracion 31
+(Seed) solucion local: 427561.5
+(Seed) solucion encontrada: 426780.5
+Iteracion 32
+(Seed) solucion local: 426780.5
+(Seed) solucion encontrada: 418846.5
+Iteracion 33
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 426167.5
+Iteracion 34
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 431423.5
+Iteracion 35
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 430440.5
+Iteracion 36
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 430108.5
+Iteracion 37
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 430473.5
+Iteracion 38
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 425892.5
+Iteracion 39
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 426000.0
+Iteracion 40
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 423272.0
+Iteracion 41
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 422775.5
+Iteracion 42
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 422828.5
+Iteracion 43
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 425990.0
+Iteracion 44
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 424292.0
+Iteracion 45
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 423183.5
+Iteracion 46
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 438607.0
+Iteracion 47
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 441768.0
+Iteracion 48
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 444384.5
+Iteracion 49
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 451874.5
+Iteracion 50
+(Seed) solucion local: 418846.5
+(Seed) solucion encontrada: 450304.5
+Seed local: [28, 45, 40, 49, 41, 53, 25, 54, 55, 39, 50, 20, 36, 38, 0, 30, 6, 11, 14, 18, 46, 26, 1, 8, 17, 32, 23, 5, 12, 24, 31, 7, 44, 48, 33, 34, 19, 37, 42, 3, 10, 52, 27, 29, 47, 43, 15, 9, 51, 22, 2, 13, 21, 4, 16, 35]
+Solucion local: 418846.5
+
+VECINDARIO 20
+Seed: [54, 30, 14, 38, 51, 16, 12, 44, 49, 22, 45, 34, 32, 39, 8, 29, 27, 5, 18, 0, 15, 11, 36, 19, 4, 24, 31, 20, 52, 23, 26, 48, 47, 7, 42, 6, 21, 25, 1, 37, 13, 43, 55, 10, 35, 33, 9, 53, 46, 17, 3, 28, 2, 50, 40, 41]
+Realizando busqueda local...
+Iteracion 1
+(Seed) solucion local: 1000000
+(Seed) solucion encontrada: 445282.5
+Iteracion 2
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 457504.5
+Iteracion 3
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 456997.5
+Iteracion 4
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 460708.5
+Iteracion 5
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 452673.0
+Iteracion 6
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 450637.0
+Iteracion 7
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 448798.0
+Iteracion 8
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 457124.5
+Iteracion 9
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 461671.5
+Iteracion 10
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 461218.0
+Iteracion 11
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 466618.5
+Iteracion 12
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 467935.0
+Iteracion 13
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 463304.0
+Iteracion 14
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 464453.0
+Iteracion 15
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 468303.5
+Iteracion 16
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 468467.5
+Iteracion 17
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 464673.0
+Iteracion 18
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 464323.5
+Iteracion 19
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 453405.5
+Iteracion 20
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 453366.0
+Iteracion 21
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451767.5
+Iteracion 22
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451780.5
+Iteracion 23
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451723.5
+Iteracion 24
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 452765.5
+Iteracion 25
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 447579.5
+Iteracion 26
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 448739.5
+Iteracion 27
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 463607.5
+Iteracion 28
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 464102.0
+Iteracion 29
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 467266.5
+Iteracion 30
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 468731.0
+Iteracion 31
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 465039.5
+Iteracion 32
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 458560.5
+Iteracion 33
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 457949.5
+Iteracion 34
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 462876.0
+Iteracion 35
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 452844.0
+Iteracion 36
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 450100.0
+Iteracion 37
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451148.5
+Iteracion 38
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451296.0
+Iteracion 39
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 451844.5
+Iteracion 40
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 453550.0
+Iteracion 41
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 447135.0
+Iteracion 42
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 458504.0
+Iteracion 43
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 454202.0
+Iteracion 44
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 453167.5
+Iteracion 45
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 455412.5
+Iteracion 46
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 455424.5
+Iteracion 47
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 457496.5
+Iteracion 48
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 461344.5
+Iteracion 49
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 462756.0
+Iteracion 50
+(Seed) solucion local: 445282.5
+(Seed) solucion encontrada: 461973.0
+Seed local: [49, 8, 41, 38, 40, 26, 35, 3, 48, 31, 45, 21, 51, 19, 43, 29, 55, 24, 34, 13, 2, 37, 6, 36, 18, 30, 0, 16, 52, 4, 25, 22, 53, 7, 42, 27, 5, 11, 1, 23, 10, 39, 9, 14, 32, 33, 50, 15, 46, 20, 47, 28, 17, 54, 12, 44]
+Solucion local: 445282.5
+
+Mejor resultado
+
+Index solución: [28, 45, 40, 49, 41, 53, 25, 54, 55, 39, 50, 20, 36, 38, 0, 30, 6, 11, 14, 18, 46, 26, 1, 8, 17, 32, 23, 5, 12, 24, 31, 7, 44, 48, 33, 34, 19, 37, 42, 3, 10, 52, 27, 29, 47, 43, 15, 9, 51, 22, 2, 13, 21, 4, 16, 35]
+Valor solución: 418846.5
